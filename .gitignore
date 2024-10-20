@@ -1,2 +1,9 @@
-*.xlsx
 *.csv
+*.xlsx
+
+!/Tratamento/Etapa 1/Comparação dos campos de cada tabela.xlsx
+!/Tratamento/Etapa 2/municipios.csv
+!/Tratamento/Etapa 2/profissoes.xlsx
+!/Tratamento/Inserção de novos dados/Comparação dos campos de cada tabela.xlsx
+!/Tratamento/Inserção de novos dados/municipios.csv
+!/Tratamento/Inserção de novos dados/profissoes.xlsx
