@@ -1,7 +1,7 @@
 # MARIA - Mapping and Analysis of Risks and Insights on Abuse Against Women
 
 **Welcome to the MARIA Project!**  
-This repository is dedicated to extracting, transforming, and analyzing data on domestic violence in Brazil obtained from the **Women’s Service Center (Call 180)**. The project also features interactive dashboards created with Tableau Public to visualize trends, patterns, and insights related to this critical issue. The dashboards are available at https://public.tableau.com/app/profile/isabel.manssour4994/viz/MARIAEnglish/Incio.
+This repository contains all the information needed to reproduce our research, which is dedicated to extracting, transforming, and analyzing data on domestic violence in Brazil obtained from the **Women’s Service Center (Call 180)**. The project also features interactive dashboards created with Tableau Public to visualize trends, patterns, and insights related to this critical issue. The dashboards are available at https://public.tableau.com/app/profile/isabel.manssour4994/viz/MARIAEnglish/Incio. 
 
 ---
 
@@ -36,14 +36,14 @@ The data processing pipeline, implemented in Python, is divided into three main 
 
 - **Stage 3: Unified Dataset Creation**  
   - Combining all cleaned datasets into a single, consistent dataset.  
-  - Adding a "Categories" column to classify violations based on the **Maria da Penha Law**:  
+  - Adding a "Categories" column to classify violations based on the [**Maria da Penha Law**](https://tinyurl.com/2sz9cfsa):  
     - Physical Violence  
     - Psychological Violence  
     - Sexual Violence  
     - Moral Violence  
     - Patrimonial Violence  
 
-Scripts allow seamless updates whenever new data is released.
+Scripts also allow seamless updates whenever new data is released.
 
 ---
 
