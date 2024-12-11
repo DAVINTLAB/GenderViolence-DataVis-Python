@@ -1,7 +1,7 @@
 # MARIA - Mapping and Analysis of Risks and Insights on Abuse Against Women
 
 **Welcome to the MARIA Project!**  
-This repository contains all the information needed to reproduce our research, which is dedicated to extracting, transforming, and analyzing data on domestic violence in Brazil obtained from the **Women’s Service Center (Call 180)**. The project also features interactive dashboards created with Tableau Public to visualize trends, patterns, and insights related to this critical issue. The dashboards are available at https://public.tableau.com/app/profile/isabel.manssour4994/viz/MARIAEnglish/Incio. 
+This repository contains all the information needed to reproduce our research, which is dedicated to extracting, transforming, and analyzing data on domestic violence in Brazil obtained from the **Women’s Service Center (Call 180)**. The project also features [interactive dashboards](https://public.tableau.com/app/profile/isabel.manssour4994/viz/MARIAEnglish/Incio) created with Tableau Public to visualize trends, patterns, and insights related to this critical issue. 
 
 ---
 
@@ -55,7 +55,7 @@ Scripts also allow seamless updates whenever new data is released.
 
 ### 3. Clustering Analysis
 - Experimental clustering techniques:
-  - **K-means** and **K-modes** were applied to identify patterns and groupings within the data.  
+- **K-means** and **K-modes** were applied to identify patterns and groupings within the data.  
 - This exploration aims to provide deeper insights into recurring trends and anomalies in the dataset.
 
 ---
