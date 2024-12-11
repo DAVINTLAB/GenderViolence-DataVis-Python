@@ -70,9 +70,9 @@ Scripts allow seamless updates whenever new data is released.
 
 ```plaintext
 MARIA/
-├── Clustering/                 # Clustering analysis using K-means and K-modes.
-├── Translation/           # Scripts and outputs for translating data into English.
-├── Treatment/            # ETL pipeline scripts (Stages 1, 2, and 3 described above).
+├── Clusterização/                # Clustering analysis using K-means and K-modes.
+├── Tradução/              # Scripts and outputs for translating data into English.
+├── Tratamento/            # ETL pipeline scripts (Stages 1, 2, and 3 described above).
 ├── README.md                   # Project overview and details (this file).
 
 
