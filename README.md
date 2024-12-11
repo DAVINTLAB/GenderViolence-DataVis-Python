@@ -68,13 +68,13 @@ Scripts also allow seamless updates whenever new data is released.
 
 ## 📁 Repository Structure
 
-```plaintext
 MARIA/
 ├── Clusterização/             # Clustering analysis using K-means and K-modes.
 ├── Tradução/                  # Scripts and outputs for translating data into English.
 ├── Tratamento/                # ETL pipeline scripts (Stages 1, 2, and 3 described above).
 ├── README.md                  # Project overview and details (this file).
 
+---
 
 ## Citation
 
@@ -85,6 +85,7 @@ Explorando Dados Governamentais para Prevenção da Violência de Gênero: Uma A
 In Anais do XII Workshop de Computação Aplicada em Governo Eletrônico, 2024, Brasília/DF, Brasil. 
 SBC, Porto Alegre, Brasil, 145-156. DOI: https://doi.org/10.5753/wcge.2024.2966.
 
+---
 
 ## About the authors
 
@@ -97,5 +98,6 @@ We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:
 - André F. Rollwagen -- PhD student in Computer Science.
 - Isabel H. Manssour -- Researcher and Professor Coordinator of DaVInt.
 
-More information can be found at [https://www.inf.pucrs.br/davint/](https://www.inf.pucrs.br/davint/).
+---
 
+More information can be found at [https://www.inf.pucrs.br/davint/](https://www.inf.pucrs.br/davint/).
