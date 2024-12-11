@@ -67,13 +67,13 @@ Scripts also allow seamless updates whenever new data is released.
 ---
 
 ## 📁 Repository Structure
-
+```
 MARIA/
 ├── Clusterização/             # Clustering analysis using K-means and K-modes.
 ├── Tradução/                  # Scripts and outputs for translating data into English.
 ├── Tratamento/                # ETL pipeline scripts (Stages 1, 2, and 3 described above).
 ├── README.md                  # Project overview and details (this file).
-
+```
 ---
 
 ## Citation
