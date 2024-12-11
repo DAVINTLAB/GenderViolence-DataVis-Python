@@ -10,8 +10,8 @@ This repository is dedicated to extracting, transforming, and analyzing data on 
 MARIA (**Mapping and Analysis of Risks and Insights on Abuse Against Women**) is a comprehensive ETL (Extract, Transform, Load) pipeline designed to process, analyze, and enrich public data on domestic violence. The goal is to provide a clear understanding of the dynamics of abuse against women, supporting informed decision-making, awareness campaigns, and public policy development.
 
 ### Data Sources
-1. **Call 180**: Open data provided by the Ministry of Human Rights and Citizenship in Brazil.  
-   - Period: 2014–2024 (excluding the 2019 balance sheet file, which contained consolidated summary data).
+1. **Call 180**: Open data provided by Brazil's Ministry of Human Rights and Citizenship.  
+   - Period: 2014–2024 (excluding the 2019 balance sheet file containing consolidated summary data).
    - Format: `.csv` files categorized by year/semester.
 2. **2022 Census Data**: Used for demographic analysis, including population size, education levels, race, and regional distribution.
 
@@ -70,10 +70,10 @@ Scripts allow seamless updates whenever new data is released.
 
 ```plaintext
 MARIA/
-├── Clusterização/                # Clustering analysis using K-means and K-modes.
-├── Tradução/              # Scripts and outputs for translating data into English.
-├── Tratamento/            # ETL pipeline scripts (Stages 1, 2, and 3 described above).
-├── README.md                   # Project overview and details (this file).
+├── Clusterização/             # Clustering analysis using K-means and K-modes.
+├── Tradução/                  # Scripts and outputs for translating data into English.
+├── Tratamento/                # ETL pipeline scripts (Stages 1, 2, and 3 described above).
+├── README.md                  # Project overview and details (this file).
 
 
 ## Citation
@@ -81,6 +81,7 @@ MARIA/
 Please refer to this work by citing the paper indicated below.
 
 Eduarda Patricio, Gabriel Zurawski, André Rollwagen, Isabel Manssour. Explorando Dados Governamentais para Prevenção da Violência de Gênero: Uma Abordagem Visual. In Anais do XII Workshop de Computação Aplicada em Governo Eletrônico, julho 21, 2024, Brasília/DF, Brasil. SBC, Porto Alegre, Brasil, 145-156. DOI: https://doi.org/10.5753/wcge.2024.2966.
+
 
 ## About the authors
 
