@@ -80,7 +80,10 @@ MARIA/
 
 Please refer to this work by citing the paper indicated below.
 
-Eduarda Patricio, Gabriel Zurawski, André Rollwagen, Isabel Manssour. Explorando Dados Governamentais para Prevenção da Violência de Gênero: Uma Abordagem Visual. In Anais do XII Workshop de Computação Aplicada em Governo Eletrônico, julho 21, 2024, Brasília/DF, Brasil. SBC, Porto Alegre, Brasil, 145-156. DOI: https://doi.org/10.5753/wcge.2024.2966.
+Eduarda Patricio, Gabriel Zurawski, André Rollwagen, Isabel Manssour. 
+Explorando Dados Governamentais para Prevenção da Violência de Gênero: Uma Abordagem Visual. 
+In Anais do XII Workshop de Computação Aplicada em Governo Eletrônico, 2024, Brasília/DF, Brasil. 
+SBC, Porto Alegre, Brasil, 145-156. DOI: https://doi.org/10.5753/wcge.2024.2966.
 
 
 ## About the authors
@@ -94,4 +97,4 @@ We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:
 - André F. Rollwagen -- PhD student in Computer Science.
 - Isabel H. Manssour -- Researcher and Professor Coordinator of DaVInt.
 
-More information can be found [here](https://www.inf.pucrs.br/davint/).
+More information can be found at https://www.inf.pucrs.br/davint/.
