@@ -97,4 +97,4 @@ We are members of the Data Visualization and Interaction Lab (DaVInt) at PUCRS:
 - André F. Rollwagen -- PhD student in Computer Science.
 - Isabel H. Manssour -- Researcher and Professor Coordinator of DaVInt.
 
-More information can be found at https://www.inf.pucrs.br/davint/.
+More information can be found at [https://www.inf.pucrs.br/davint/](https://www.inf.pucrs.br/davint/).
